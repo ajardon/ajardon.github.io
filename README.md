@@ -1,7 +1,9 @@
 # ajardon.github.io
 ## Universidad Carlos III de Madrid (UC3M) 
 
-* Associate Professor at UC3M from 2018
+* Associate Professor at UC3M from 2018 in the Department of Systems Engineering and Automation 
+
+* Director of the Assistive Robotics Laboratory at the PCT-Leganés. 
 
 * Senior researcher in Robotics for Assistive and Healthcare at [RoboticsLab (UC3M)](roboticslab.uc3m.es)
 
